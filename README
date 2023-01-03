@@ -1,3 +1,40 @@
 This repository contains:
 a powerpoint describing the purpose of the project,
 and a jupyter notebook that contains the python codes used to analyze and visualize the data.
+
+
+This Capstone Project is Case Study of Online Payments Fraud Detection.
+
+Problem Definiton: Blossom Bank as a multinational financial service group needs to have the capacity to predict fraud and terminate fraudulent transactions.
+Solution: Build a machine learning model to predict online payment fraud
+
+Steps Outline:
+1. Data Loading and Inspection
+  - Load the data
+  - Get summary and statistics of the data
+  - Check for Nulls
+  - Explore Correlations
+2. Exploratory Data Analysis and Data Visualization
+  - Explore correlation
+  - Univariate Analysis
+  - Bivariate Analysis
+  - Data Imbalance
+3. Machine Learning Modelling on Original, Imbalanced Data
+  - Check the Data for Imbalance
+  - Model Selection, Training, and Validation
+  - Perform Feature Engineering
+  - Model with top 5 important features
+4.  Machine Learning Modelling with Stratified and Rescaled Dataset
+  - Handle Imbalance and Outliers in the dataset
+  - Label Encoding
+  - Train and Test on Stratified Dataset
+  - Scaling the data
+  - Model the data using re-scaled dataset
+ 5. Machine Learning Modelling with Stratified, Rescaled & Resampled Dataset
+  - Handle imbalance through combination of Oversampling & Undersampling using Robust Normalized Dataset
+  - Model the data based on Robust-Normalized Dat and different types of Resampling
+ 6. Result Interpretation
+ 7. Summary
+  
+  
+ 
